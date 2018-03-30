@@ -13,5 +13,8 @@
     "psr-4": {
       "zkr\\": ""
     }
+  },
+  "require": {
+    "giggsey/libphonenumber-for-php": "^8.0@dev"
   }
 }

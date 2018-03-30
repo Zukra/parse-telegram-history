@@ -1,5 +1,5 @@
 
-Pasre telegtam chat history
+Parse telegram chat history
 
 https://github.com/pigpagnet/save-telegram-chat-history
 

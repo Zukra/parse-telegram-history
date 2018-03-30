@@ -1,0 +1,17 @@
+{
+  "name": "zkr/telegram_history",
+  "description": "telegram history parser",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Zukra",
+      "email": "zluka.888@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "zkr\\": ""
+    }
+  }
+}
